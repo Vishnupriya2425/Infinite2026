@@ -1,0 +1,14 @@
+C:\.NetTraning\Assignments\C#\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\.NetTraning\Assignments\C#\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\.NetTraning\Assignments\C#\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\.NetTraning\Assignments\C#\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\.NetTraning\Assignments\C#\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\.NetTraning\Assignments\C#\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\.NetTraning\Assignments\C#\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+C:\.NetTraning\Assignments\C#\Assignment2\bin\Debug\Assignment2.exe.config
+C:\.NetTraning\Assignments\C#\Assignment2\bin\Debug\Assignment2.exe
+C:\.NetTraning\Assignments\C#\Assignment2\bin\Debug\Assignment2.pdb
+C:\.NetTraning\Assignments\C#\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\.NetTraning\Assignments\C#\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\.NetTraning\Assignments\C#\Assignment2\obj\Debug\Assignment2.exe
+C:\.NetTraning\Assignments\C#\Assignment2\obj\Debug\Assignment2.pdb
