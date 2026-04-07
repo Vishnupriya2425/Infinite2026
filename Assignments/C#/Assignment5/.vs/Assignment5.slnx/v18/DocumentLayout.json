@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\.NetTraning\\Assessments\\C#\\Assignment5\\",
+  "WorkspaceRootPath": "C:\\.NetTraning\\Assignments\\C#\\Assignment5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6562396C-5D25-44E3-B6D3-48A1CCB3C609}|Assignment5.csproj|c:\\.nettraning\\assessments\\c#\\assignment5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6562396C-5D25-44E3-B6D3-48A1CCB3C609}|Assignment5.csproj|c:\\.nettraning\\assignments\\c#\\assignment5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6562396C-5D25-44E3-B6D3-48A1CCB3C609}|Assignment5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\C#\\Assignment5\\Program.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assignments\\C#\\Assignment5\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\.NetTraning\\Assessments\\C#\\Assignment5\\Program.cs",
+              "ToolTip": "C:\\.NetTraning\\Assignments\\C#\\Assignment5\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAUwHUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T07:59:27.206Z",
               "EditorCaption": ""
