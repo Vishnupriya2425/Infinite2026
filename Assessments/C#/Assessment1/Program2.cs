@@ -34,11 +34,7 @@ class NestedStruct
             Console.WriteLine("Employee details");
             for (int i = 0; i < employee.Length; i++)
             {
-                Console.WriteLine("Employee name: {0}", employee[i].Name);
-            Console.WriteLine("Employee date of birth:  "+employee[i].Dob.Day);
-            Console.WriteLine("Employee month of birth: " +employee[i].Dob.Month);
-            Console.WriteLine("Employee year of birth: " +employee[i].Dob.Year);
-
+            Console.WriteLine("Employee name: {0}", employee[i].Name + "/" + employee[i].Dob.Day + "/" + employee[i].Dob.Month + "/" + employee[i].Dob.Year);
             Console.WriteLine();
             }
         
