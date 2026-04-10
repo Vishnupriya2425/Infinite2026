@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.NetTraning\\Assignments\\C#\\Assignment7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC1BDB-0656-43C7-8699-1C876FE4E2B9}|Assignment7.csproj|c:\\.nettraning\\assignments\\c#\\assignment7\\program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC1BDB-0656-43C7-8699-1C876FE4E2B9}|Assignment7.csproj|solutionrelative:program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90DB52EC-ED6A-497A-A43C-372FF868F612}|..\\TravelConcessionLibrary\\TravelConcessionLibrary.csproj|c:\\.nettraning\\assignments\\c#\\travelconcessionlibrary\\concession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC1BDB-0656-43C7-8699-1C876FE4E2B9}|Assignment7.csproj|c:\\.nettraning\\assignments\\c#\\assignment7\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC1BDB-0656-43C7-8699-1C876FE4E2B9}|Assignment7.csproj|solutionrelative:program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC1BDB-0656-43C7-8699-1C876FE4E2B9}|Assignment7.csproj|c:\\.nettraning\\assignments\\c#\\assignment7\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC1BDB-0656-43C7-8699-1C876FE4E2B9}|Assignment7.csproj|solutionrelative:program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC1BDB-0656-43C7-8699-1C876FE4E2B9}|Assignment7.csproj|c:\\.nettraning\\assignments\\c#\\assignment7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC1BDB-0656-43C7-8699-1C876FE4E2B9}|Assignment7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Concession.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assignments\\C#\\TravelConcessionLibrary\\Concession.cs",
+              "RelativeDocumentMoniker": "..\\TravelConcessionLibrary\\Concession.cs",
+              "ToolTip": "C:\\.NetTraning\\Assignments\\C#\\TravelConcessionLibrary\\Concession.cs",
+              "RelativeToolTip": "..\\TravelConcessionLibrary\\Concession.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:56:48.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program4.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assignments\\C#\\Assignment7\\Program4.cs",
+              "RelativeDocumentMoniker": "Program4.cs",
+              "ToolTip": "C:\\.NetTraning\\Assignments\\C#\\Assignment7\\Program4.cs",
+              "RelativeToolTip": "Program4.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:55:30.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program3.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assignments\\C#\\Assignment7\\Program3.cs",
+              "RelativeDocumentMoniker": "Program3.cs",
+              "ToolTip": "C:\\.NetTraning\\Assignments\\C#\\Assignment7\\Program3.cs",
+              "RelativeToolTip": "Program3.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswDQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:52:47.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program2.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assignments\\C#\\Assignment7\\Program2.cs",
+              "RelativeDocumentMoniker": "Program2.cs",
+              "ToolTip": "C:\\.NetTraning\\Assignments\\C#\\Assignment7\\Program2.cs",
+              "RelativeToolTip": "Program2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:51:01.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assignments\\C#\\Assignment7\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\.NetTraning\\Assignments\\C#\\Assignment7\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:41:42.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
