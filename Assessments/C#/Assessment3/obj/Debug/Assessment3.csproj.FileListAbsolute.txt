@@ -1,0 +1,7 @@
+C:\.NetTraning\Assessments\C#\Assessment3\obj\Debug\Assessment3.csproj.AssemblyReference.cache
+C:\.NetTraning\Assessments\C#\Assessment3\obj\Debug\Assessment3.csproj.CoreCompileInputs.cache
+C:\.NetTraning\Assessments\C#\Assessment3\bin\Debug\Assessment3.exe.config
+C:\.NetTraning\Assessments\C#\Assessment3\bin\Debug\Assessment3.exe
+C:\.NetTraning\Assessments\C#\Assessment3\bin\Debug\Assessment3.pdb
+C:\.NetTraning\Assessments\C#\Assessment3\obj\Debug\Assessment3.exe
+C:\.NetTraning\Assessments\C#\Assessment3\obj\Debug\Assessment3.pdb

@@ -1,0 +1,38 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.Remoting.Services;
+using System.Text;
+using System.Threading.Tasks;
+using System.Xml.Schema;
+
+namespace Assessment3
+{
+    public class CricketTeam
+    {
+        static void Main(string[] args)
+        {
+            CricketTeam ct = new CricketTeam();
+            Console.Write("Enter number of matches : ");
+            int matches = Convert.ToInt32(Console.ReadLine());
+            ct.Pointscalculation(matches);
+
+        }
+
+        public void Pointscalculation(int no_of_matches)
+        {
+            int sum = 0;
+            Console.WriteLine("Count of the matches is : " + no_of_matches);
+            for (int i = 1; i < = no_of_matches; i++)
+            {
+                Console.WriteLine("Enter the score of match " + i + ": ");
+                int score=Convert.ToInt32(Console.ReadLine());
+                sum +=score;
+            }
+            Console.WriteLine("Total score of all matches is : " + sum);
+            avg= Convert.ToDouble(Console.ReadLine());
+            avg = sum / no_of_matches;
+            Console.WriteLine("The average score of all matches is : " + avg);
+        }
+    }
+}
