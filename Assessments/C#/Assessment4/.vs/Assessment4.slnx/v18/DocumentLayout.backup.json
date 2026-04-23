@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9302FF9E-E707-497A-8D08-A40D218D4F47}|..\\TestDistance1\\TestDistance1.csproj|c:\\.nettraning\\assessments\\c#\\testdistance1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9C2634-786B-4993-AF04-6C0E7FBF9F0C}|Assessment4.csproj|c:\\.nettraning\\assessments\\c#\\assessment4\\distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9C2634-786B-4993-AF04-6C0E7FBF9F0C}|Assessment4.csproj|solutionrelative:distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9C2634-786B-4993-AF04-6C0E7FBF9F0C}|Assessment4.csproj|c:\\.nettraning\\assessments\\c#\\assessment4\\program2\\concrete\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9C2634-786B-4993-AF04-6C0E7FBF9F0C}|Assessment4.csproj|solutionrelative:program2\\concrete\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9C2634-786B-4993-AF04-6C0E7FBF9F0C}|Assessment4.csproj|c:\\.nettraning\\assessments\\c#\\assessment4\\program2\\concrete\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9C2634-786B-4993-AF04-6C0E7FBF9F0C}|Assessment4.csproj|solutionrelative:program2\\concrete\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9C2634-786B-4993-AF04-6C0E7FBF9F0C}|Assessment4.csproj|c:\\.nettraning\\assessments\\c#\\assessment4\\program2\\abstract\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9C2634-786B-4993-AF04-6C0E7FBF9F0C}|Assessment4.csproj|solutionrelative:program2\\abstract\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9C2634-786B-4993-AF04-6C0E7FBF9F0C}|Assessment4.csproj|c:\\.nettraning\\assessments\\c#\\assessment4\\program2\\factory\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9C2634-786B-4993-AF04-6C0E7FBF9F0C}|Assessment4.csproj|solutionrelative:program2\\factory\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9C2634-786B-4993-AF04-6C0E7FBF9F0C}|Assessment4.csproj|c:\\.nettraning\\assessments\\c#\\assessment4\\program2\\factory\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9C2634-786B-4993-AF04-6C0E7FBF9F0C}|Assessment4.csproj|solutionrelative:program2\\factory\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9C2634-786B-4993-AF04-6C0E7FBF9F0C}|Assessment4.csproj|c:\\.nettraning\\assessments\\c#\\assessment4\\program2\\factory\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9C2634-786B-4993-AF04-6C0E7FBF9F0C}|Assessment4.csproj|solutionrelative:program2\\factory\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9C2634-786B-4993-AF04-6C0E7FBF9F0C}|Assessment4.csproj|c:\\.nettraning\\assessments\\c#\\assessment4\\program2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9C2634-786B-4993-AF04-6C0E7FBF9F0C}|Assessment4.csproj|solutionrelative:program2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9C2634-786B-4993-AF04-6C0E7FBF9F0C}|Assessment4.csproj|c:\\.nettraning\\assessments\\c#\\assessment4\\program2\\concrete\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9C2634-786B-4993-AF04-6C0E7FBF9F0C}|Assessment4.csproj|solutionrelative:program2\\concrete\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9C2634-786B-4993-AF04-6C0E7FBF9F0C}|Assessment4.csproj|c:\\.nettraning\\assessments\\c#\\assessment4\\program2\\interface\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9C2634-786B-4993-AF04-6C0E7FBF9F0C}|Assessment4.csproj|solutionrelative:program2\\interface\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9C2634-786B-4993-AF04-6C0E7FBF9F0C}|Assessment4.csproj|c:\\.nettraning\\assessments\\c#\\assessment4\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9C2634-786B-4993-AF04-6C0E7FBF9F0C}|Assessment4.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\C#\\TestDistance1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestDistance1\\UnitTest1.cs",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\C#\\TestDistance1\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestDistance1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:40:55.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Distance.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\Distance.cs",
+              "RelativeDocumentMoniker": "Distance.cs",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\Distance.cs",
+              "RelativeToolTip": "Distance.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:00:17.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\Program2\\Class1.cs",
+              "RelativeDocumentMoniker": "Program2\\Class1.cs",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\Program2\\Class1.cs",
+              "RelativeToolTip": "Program2\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:54:07.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\Program2\\Factory\\Class3.cs",
+              "RelativeDocumentMoniker": "Program2\\Factory\\Class3.cs",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\Program2\\Factory\\Class3.cs",
+              "RelativeToolTip": "Program2\\Factory\\Class3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:53:44.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\Program2\\Factory\\Class2.cs",
+              "RelativeDocumentMoniker": "Program2\\Factory\\Class2.cs",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\Program2\\Factory\\Class2.cs",
+              "RelativeToolTip": "Program2\\Factory\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:53:30.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\Program2\\Factory\\Class1.cs",
+              "RelativeDocumentMoniker": "Program2\\Factory\\Class1.cs",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\Program2\\Factory\\Class1.cs",
+              "RelativeToolTip": "Program2\\Factory\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:53:11.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\Program2\\Abstract\\Class1.cs",
+              "RelativeDocumentMoniker": "Program2\\Abstract\\Class1.cs",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\Program2\\Abstract\\Class1.cs",
+              "RelativeToolTip": "Program2\\Abstract\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:52:49.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\Program2\\Concrete\\Class3.cs",
+              "RelativeDocumentMoniker": "Program2\\Concrete\\Class3.cs",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\Program2\\Concrete\\Class3.cs",
+              "RelativeToolTip": "Program2\\Concrete\\Class3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:51:47.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\Program2\\Concrete\\Class2.cs",
+              "RelativeDocumentMoniker": "Program2\\Concrete\\Class2.cs",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\Program2\\Concrete\\Class2.cs",
+              "RelativeToolTip": "Program2\\Concrete\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:51:26.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\Program2\\Concrete\\Class1.cs",
+              "RelativeDocumentMoniker": "Program2\\Concrete\\Class1.cs",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\Program2\\Concrete\\Class1.cs",
+              "RelativeToolTip": "Program2\\Concrete\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:51:05.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\Program2\\Interface\\Interface1.cs",
+              "RelativeDocumentMoniker": "Program2\\Interface\\Interface1.cs",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\Program2\\Interface\\Interface1.cs",
+              "RelativeToolTip": "Program2\\Interface\\Interface1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:48:30.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\C#\\Assessment4\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:37:57.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
