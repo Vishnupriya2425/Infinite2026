@@ -1,0 +1,7 @@
+C:\.NetTraning\Assignments\ADO\AdoAssignment1\bin\Debug\AdoAssignment1.exe.config
+C:\.NetTraning\Assignments\ADO\AdoAssignment1\bin\Debug\AdoAssignment1.exe
+C:\.NetTraning\Assignments\ADO\AdoAssignment1\bin\Debug\AdoAssignment1.pdb
+C:\.NetTraning\Assignments\ADO\AdoAssignment1\obj\Debug\AdoAssignment1.csproj.AssemblyReference.cache
+C:\.NetTraning\Assignments\ADO\AdoAssignment1\obj\Debug\AdoAssignment1.csproj.CoreCompileInputs.cache
+C:\.NetTraning\Assignments\ADO\AdoAssignment1\obj\Debug\AdoAssignment1.exe
+C:\.NetTraning\Assignments\ADO\AdoAssignment1\obj\Debug\AdoAssignment1.pdb
