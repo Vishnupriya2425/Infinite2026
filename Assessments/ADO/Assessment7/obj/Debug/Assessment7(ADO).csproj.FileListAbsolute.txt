@@ -1,0 +1,7 @@
+C:\.NetTraning\Assessments\C#\Assessment7(ADO)\bin\Debug\Assessment7(ADO).exe.config
+C:\.NetTraning\Assessments\C#\Assessment7(ADO)\bin\Debug\Assessment7(ADO).exe
+C:\.NetTraning\Assessments\C#\Assessment7(ADO)\bin\Debug\Assessment7(ADO).pdb
+C:\.NetTraning\Assessments\C#\Assessment7(ADO)\obj\Debug\Assessment7(ADO).csproj.AssemblyReference.cache
+C:\.NetTraning\Assessments\C#\Assessment7(ADO)\obj\Debug\Assessment7(ADO).csproj.CoreCompileInputs.cache
+C:\.NetTraning\Assessments\C#\Assessment7(ADO)\obj\Debug\Assessment7(ADO).exe
+C:\.NetTraning\Assessments\C#\Assessment7(ADO)\obj\Debug\Assessment7(ADO).pdb
