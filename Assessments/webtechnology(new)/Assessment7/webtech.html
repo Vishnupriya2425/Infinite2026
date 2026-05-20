@@ -1,0 +1,151 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Multiplication and Division</title>
+
+    <script>
+        function MultiplicationANdDivision() {
+            var num1 = parseFloat(document.getElementById("num1").value);
+            var num2 = parseFloat(document.getElementById("num2").value);
+
+            var result1 = num1 * num2;
+            var result2 = num1 / num2;
+
+            document.getElementById("result1").innerHTML = "<b>Multiplication: </b>" + result1 + "<br><b>Division: </b>" + result2;
+        }
+
+        // Odd and Even Loop
+        function doLoop() {
+            var str = "";
+
+            for (var i = 1; i <= 15; i++) {
+                if (i % 2 == 0) {
+                    str += i + " is Even Number<br>";
+                } else {
+                    str += i + " is Odd Number<br>";
+                }
+            }
+
+            document.getElementById("numberResult").innerHTML = str;
+        }
+
+        // Event Listener
+        function eventListenerExample() {
+            var button = document.getElementById("myButton");
+            button.addEventListener("click", function () {
+                console.log("Button was clicked!");
+                document.getElementById("eventResult").innerHTML =
+                    "<b>Button was clicked!</b>";
+            });
+        }
+
+        //Hiding Odd Rows in a Table
+        function hideOddRows() {
+            var rows = document.querySelectorAll("tr:nth-child(odd)");
+            for (var i = 0; i < rows.length; i++) {
+                rows[i].style.display = "none";
+            }
+        }
+    </script>
+    <!--h1 elements background-->
+    <style>
+        div h1 {
+            background-color: lightblue;
+        }
+    </style>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+
+    <script>
+
+
+        $(function () {
+            var firstItem = $("ul li:first").text().trim();
+            $("#jqueryResult").html("<b>First Item: </b>" + firstItem);
+        });
+
+
+        $(function () {
+
+            $("li").each(function (index) {
+                $(this).prepend(index + " ");
+            });
+
+        });
+
+        $(function () {
+            $("input").change(function () {
+                $("body").append("<p>Input value has been changed!</p>");
+            });
+
+        });
+
+
+
+    </script>
+
+
+</head>
+<body>
+
+    <h3>Multiplication And Division</h3>
+
+    Enter number: <input id="num1"><br><br>
+    Enter number: <input id="num2"><br><br>
+    <button onclick="MultiplicationANdDivision()">Result</button>
+    <br><br>
+    <div id="result1"></div>
+    <hr>
+    <!--Odd and Even Loop-->
+    <h3>Check Numbers (1 to 15)</h3>
+    <button onclick="doLoop()">Click to print</button>
+    <br><br>
+    <div id="numberResult"></div>
+    <hr>
+    <!--Event Listener-->
+    <button onclick="eventListenerExample()">Add Event Listener</button>
+    <br><br>
+    <button id="myButton">Click Me</button>
+    <br><br>
+    <div id="eventResult"></div>
+    <hr>
+    <!--Hiding Odd Rows in a Table-->
+    <table>
+        <tr><td>Row 1</td></tr>
+        <tr><td>Row 2</td></tr>
+        <tr><td>Row 3</td></tr>
+        <tr><td>Row 4</td></tr>
+        <tr><td>Row 5</td></tr>
+    </table>
+
+    <br>
+    <button onclick="hideOddRows()">Hide Odd Rows</button>
+    <hr>
+    <!--h1 elements background-->
+    <div>
+        <h1>H1 background1</h1>
+        <h1>Another H1 background2</h1>
+    </div>
+    <h1>H1 outside div</h1>
+    <hr>
+    <ul>
+        <li>CSHARP</li>
+        <li>SQL</li>
+        <li>ADO</li>
+    </ul>
+    <div id="jqueryResult"></div>
+    <hr>
+    <ul>
+        <li>CSHARP</li>
+        <li>SQL</li>
+        <li>ADO</li>
+    </ul>
+    <hr>
+
+    <input type="text" placeholder="Type something here">
+
+</body>
+</html>
