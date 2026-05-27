@@ -3,15 +3,14 @@
   "WorkspaceRootPath": "C:\\.NetTraning\\Assessments\\ADO\\Assessment7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F44B3D8D-FA97-4D56-9161-95432AF1609F}|Assessment7(ADO).csproj|c:\\.nettraning\\assessments\\ado\\assessment7\\updation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F44B3D8D-FA97-4D56-9161-95432AF1609F}|Assessment7(ADO).csproj|solutionrelative:updation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Assessment7(ADO)||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F44B3D8D-FA97-4D56-9161-95432AF1609F}|Assessment7(ADO).csproj|C:\\.NetTraning\\Assessments\\ADO\\Assessment7\\insertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F44B3D8D-FA97-4D56-9161-95432AF1609F}|Assessment7(ADO).csproj|solutionrelative:insertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Assessment7(ADO)||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{F44B3D8D-FA97-4D56-9161-95432AF1609F}|Assessment7(ADO).csproj|c:\\.nettraning\\assessments\\ado\\assessment7\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,26 +25,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Updation.cs",
-              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\ADO\\Assessment7\\Updation.cs",
-              "RelativeDocumentMoniker": "Updation.cs",
-              "ToolTip": "C:\\.NetTraning\\Assessments\\ADO\\Assessment7\\Updation.cs",
-              "RelativeToolTip": "Updation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T05:51:12.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Assessment7(ADO)",
               "DocumentMoniker": "C:\\.NetTraning\\Assessments\\ADO\\Assessment7\\Assessment7(ADO).csproj",
               "RelativeDocumentMoniker": "Assessment7(ADO).csproj",
               "ToolTip": "C:\\.NetTraning\\Assessments\\ADO\\Assessment7\\Assessment7(ADO).csproj",
               "RelativeToolTip": "Assessment7(ADO).csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-13T05:50:10.265Z"
+              "WhenOpened": "2026-05-13T05:50:10.265Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -57,8 +44,7 @@
               "RelativeToolTip": "Insertion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T04:31:14.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T04:31:14.933Z"
             }
           ]
         }

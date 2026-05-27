@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true"
+    CodeBehind="Site.Master.cs"
+    Inherits="FoodOrderingSystem.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Food Order System</title>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+
+        <h1>Food Order Management System</h1>
+
+        <nav>
+            <a href="MenuList.aspx">Menu Items</a> |
+            <a href="AddEditMenu.aspx">Add Menu</a> |
+            <a href="OrderStats.aspx">Order Stats</a> |
+            <a href="Logout.aspx"> Logout</a>
+        </nav>
+
+        <hr />
+
+        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+
+        <hr />
+
+        <footer>
+            © 2026 Food System
+        </footer>
+
+    </form>
+</body>
+</html>

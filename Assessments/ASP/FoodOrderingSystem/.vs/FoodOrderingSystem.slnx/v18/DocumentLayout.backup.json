@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\addeditmenu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|solutionrelative:addeditmenu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|c:\\.nettraning\\assessments\\asp\\foodorderingsystem\\addeditmenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|solutionrelative:addeditmenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|solutionrelative:site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\orderstats.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|solutionrelative:orderstats.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\orderstats.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|solutionrelative:orderstats.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\menulist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|solutionrelative:menulist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\menulist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|solutionrelative:menulist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\menudetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|solutionrelative:menudetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\menudetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|solutionrelative:menudetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|solutionrelative:logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|solutionrelative:logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF16AB2D-36E2-4785-9E01-8D3E4766645B}|FoodOrderingSystem.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderStats.aspx.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\OrderStats.aspx.cs",
+              "RelativeDocumentMoniker": "OrderStats.aspx.cs",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\OrderStats.aspx.cs",
+              "RelativeToolTip": "OrderStats.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:33:44.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\Site.Master",
+              "RelativeDocumentMoniker": "Site.Master",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\Site.Master",
+              "RelativeToolTip": "Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T05:07:13.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.Mobile.Master",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\Site.Mobile.Master",
+              "RelativeDocumentMoniker": "Site.Mobile.Master",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\Site.Mobile.Master",
+              "RelativeToolTip": "Site.Mobile.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T06:14:01.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-27T04:43:17.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEditMenu.aspx",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\AddEditMenu.aspx",
+              "RelativeDocumentMoniker": "AddEditMenu.aspx",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\AddEditMenu.aspx",
+              "RelativeToolTip": "AddEditMenu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:38:26.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEditMenu.aspx.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\AddEditMenu.aspx.cs",
+              "RelativeDocumentMoniker": "AddEditMenu.aspx.cs",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\AddEditMenu.aspx.cs",
+              "RelativeToolTip": "AddEditMenu.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T04:52:49.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderStats.aspx",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\OrderStats.aspx",
+              "RelativeDocumentMoniker": "OrderStats.aspx",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\OrderStats.aspx",
+              "RelativeToolTip": "OrderStats.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:38:49.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuList.aspx.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\MenuList.aspx.cs",
+              "RelativeDocumentMoniker": "MenuList.aspx.cs",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\MenuList.aspx.cs",
+              "RelativeToolTip": "MenuList.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:09:28.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuList.aspx",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\MenuList.aspx",
+              "RelativeDocumentMoniker": "MenuList.aspx",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\MenuList.aspx",
+              "RelativeToolTip": "MenuList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:38:09.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuDetails.aspx.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\MenuDetails.aspx.cs",
+              "RelativeDocumentMoniker": "MenuDetails.aspx.cs",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\MenuDetails.aspx.cs",
+              "RelativeToolTip": "MenuDetails.aspx.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:27:18.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuDetails.aspx",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\MenuDetails.aspx",
+              "RelativeDocumentMoniker": "MenuDetails.aspx",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\MenuDetails.aspx",
+              "RelativeToolTip": "MenuDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:38:37.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Logout.aspx.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\Logout.aspx.cs",
+              "RelativeDocumentMoniker": "Logout.aspx.cs",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\Logout.aspx.cs",
+              "RelativeToolTip": "Logout.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:34:22.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Logout.aspx",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\Logout.aspx",
+              "RelativeDocumentMoniker": "Logout.aspx",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\Logout.aspx",
+              "RelativeToolTip": "Logout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:39:01.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T04:48:20.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\Login.aspx",
+              "RelativeToolTip": "Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:37:25.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\ASP\\FoodOrderingSystem\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:29:10.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
