@@ -1,0 +1,14 @@
+﻿
+@model IEnumerable<Contact>
+
+<h2>Contacts</h2>
+
+<a href="/Contact/Create">Add</a>
+
+@foreach (var c in Model)
+{
+    <p>
+        @c.Id - @c.FirstName @c.LastName
+        <a href="/Contact/Delete/@c.Id">Delete</a>
+    </p>
+}

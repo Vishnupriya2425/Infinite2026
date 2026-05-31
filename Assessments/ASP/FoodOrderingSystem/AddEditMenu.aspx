@@ -17,15 +17,16 @@
             font-weight: bold;
             text-align: right;
         }
+        
     </style>
 </head>
 <body>
 <form id="form1" runat="server">
 <div>
 
-<h2 style="text-align:center">Add / Edit Menu</h2>
+<h2 style="text-align:center; font-family: 'Sitka Banner Semibold'; font-style: italic; color: #800000; font-size: xx-large; font-variant: inherit; text-decoration: underline overline; background-color: #D7A8B1;";color:red;">Add / Edit Menu</h2>
 
-<table cellpadding="10" style="margin:auto">
+<table cellpadding="10" style="margin:auto; font-family: 'Sitka Banner Semibold'; font-style: italic; color: #990000; background-color: #D7A8B1;">
 
 <tr>
     <td class="auto-style6">Item Name&nbsp;&nbsp;&nbsp; : </td>
@@ -55,7 +56,7 @@
 
 <tr>
     <td class="auto-style6">Quantity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :</td>
-    <td><asp:TextBox ID="txtQty" runat="server" /></td>
+    <td style="background-color: #D7A8B1"><asp:TextBox ID="txtQty" runat="server" /></td>
 </tr>
 
 <tr>
@@ -65,10 +66,10 @@
 
 <tr>
     <td class="auto-style5"></td>
-    <td>
+    <td style="background-color: #D7A8B1">
         <br />
         <asp:Button ID="btnSave" runat="server" Text="Save"
-            BackColor="#27ae60"
+            BackColor="Maroon"
             ForeColor="White"
             BorderStyle="None"
             Padding="8px"

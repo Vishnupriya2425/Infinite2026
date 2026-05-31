@@ -1,0 +1,7 @@
+C:\Practice\Handson\MiniProject\bin\Debug\MiniProject.exe.config
+C:\Practice\Handson\MiniProject\bin\Debug\MiniProject.exe
+C:\Practice\Handson\MiniProject\bin\Debug\MiniProject.pdb
+C:\Practice\Handson\MiniProject\obj\Debug\MiniProject.csproj.AssemblyReference.cache
+C:\Practice\Handson\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\Practice\Handson\MiniProject\obj\Debug\MiniProject.exe
+C:\Practice\Handson\MiniProject\obj\Debug\MiniProject.pdb
