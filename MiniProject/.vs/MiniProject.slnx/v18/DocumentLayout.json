@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Practice\\Handson\\MiniProject\\",
+  "WorkspaceRootPath": "C:\\.NetTraning\\MiniProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37A8C839-8C3A-4973-B086-CC404F12D46E}|MiniProject.csproj|c:\\practice\\handson\\miniproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37A8C839-8C3A-4973-B086-CC404F12D46E}|MiniProject.csproj|c:\\.nettraning\\miniproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37A8C839-8C3A-4973-B086-CC404F12D46E}|MiniProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Practice\\Handson\\MiniProject\\Program.cs",
+              "DocumentMoniker": "C:\\.NetTraning\\MiniProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Practice\\Handson\\MiniProject\\Program.cs",
+              "ToolTip": "C:\\.NetTraning\\MiniProject\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAOwAAAAAAAAAAAAkwPYAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAALICAAAAAAAAAAAkwLYCAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-26T05:46:30.72Z",
               "EditorCaption": ""
