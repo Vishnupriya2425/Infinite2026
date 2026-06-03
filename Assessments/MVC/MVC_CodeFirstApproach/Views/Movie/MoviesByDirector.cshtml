@@ -1,0 +1,31 @@
+﻿@model IEnumerable<MVC_CodeFirstApproach.Models.Movie>
+
+<h2>Movies by Director</h2>
+
+@using (Html.BeginForm())
+{
+    <p>
+        Enter Director:
+        <input type="text" name="director" />
+    </p>
+
+    <input type="submit" value="Search" />
+}
+
+@if (Model != null)
+{
+    <table border="1">
+        <tr>
+            <th>Movie Name</th>
+            <th>Release Date</th>
+        </tr>
+
+        @foreach (var m in Model)
+        {
+            <tr>
+                <td>@m.MovieName</td>
+                <td>@m.DateOfRelease.ToShortDateString()</td>
+            </tr>
+        }
+    </table>
+}

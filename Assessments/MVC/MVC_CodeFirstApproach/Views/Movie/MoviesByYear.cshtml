@@ -1,0 +1,31 @@
+﻿@model IEnumerable<MVC_CodeFirstApproach.Models.Movie>
+
+<h2>Movies by Year</h2>
+
+@using (Html.BeginForm())
+{
+    <p>
+        Enter Year:
+        <input type="text" name="year" />
+    </p>
+
+    <input type="submit" value="Search" />
+}
+
+@if (Model != null)
+{
+    <table border="1">
+        <tr>
+            <th>Movie Name</th>
+            <th>Director</th>
+        </tr>
+
+        @foreach (var m in Model)
+        {
+            <tr>
+                <td>@m.MovieName</td>
+                <td>@m.DirectorName</td>
+            </tr>
+        }
+    </table>
+}

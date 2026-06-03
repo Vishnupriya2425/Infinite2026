@@ -1,0 +1,14 @@
+﻿@model MVCapp.Models.Customer
+
+<h2>Customer for Order 10248</h2>
+
+@if (Model != null)
+{
+    <p>ID: @Model.CustomerID</p>
+    <p>Name: @Model.CompanyName</p>
+    <p>City: @Model.City</p>
+}
+else
+{
+    <p>No data found</p>
+}

@@ -1,0 +1,25 @@
+﻿@model IEnumerable<MVC_CodeFirstApproach.Models.Movie>
+
+<h2>Movies</h2>
+
+@Html.ActionLink("Add Movie", "Create")
+<br />
+@Html.ActionLink("Search Movies by Year", "MoviesByYear") |
+<br />
+
+@Html.ActionLink("Search Movies by Director", "MoviesByDirector")
+
+<table border="1">
+    @foreach (var m in Model)
+    {
+        <tr>
+            <td>@m.MovieName</td>
+            <td>@m.DirectorName</td>
+            <td>@m.DateOfRelease.ToShortDateString()</td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = m.Mid }) |
+                @Html.ActionLink("Delete", "Delete", new { id = m.Mid })
+            </td>
+        </tr>
+    }
+</table>
