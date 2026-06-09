@@ -3,27 +3,27 @@
   "WorkspaceRootPath": "C:\\.NetTraning\\Assessments\\MVC\\MVCapp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C1C6DD5C-D71A-4644-892B-93C3903261CA}|MVCapp.csproj|C:\\.NetTraning\\Assessments\\MVC\\MVCapp\\views\\code\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1C6DD5C-D71A-4644-892B-93C3903261CA}|MVCapp.csproj|solutionrelative:views\\code\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C6DD5C-D71A-4644-892B-93C3903261CA}|MVCapp.csproj|C:\\.NetTraning\\Assessments\\MVC\\MVCapp\\views\\code\\germancustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1C6DD5C-D71A-4644-892B-93C3903261CA}|MVCapp.csproj|solutionrelative:views\\code\\germancustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C6DD5C-D71A-4644-892B-93C3903261CA}|MVCapp.csproj|C:\\.NetTraning\\Assessments\\MVC\\MVCapp\\views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1C6DD5C-D71A-4644-892B-93C3903261CA}|MVCapp.csproj|solutionrelative:views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1C6DD5C-D71A-4644-892B-93C3903261CA}|MVCapp.csproj|c:\\.nettraning\\assessments\\mvc\\mvcapp\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1C6DD5C-D71A-4644-892B-93C3903261CA}|MVCapp.csproj|solutionrelative:controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1C6DD5C-D71A-4644-892B-93C3903261CA}|MVCapp.csproj|c:\\.nettraning\\assessments\\mvc\\mvcapp\\views\\code\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1C6DD5C-D71A-4644-892B-93C3903261CA}|MVCapp.csproj|solutionrelative:views\\code\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1C6DD5C-D71A-4644-892B-93C3903261CA}|MVCapp.csproj|c:\\.nettraning\\assessments\\mvc\\mvcapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{C1C6DD5C-D71A-4644-892B-93C3903261CA}|MVCapp.csproj|C:\\.NetTraning\\Assessments\\MVC\\MVCapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{C1C6DD5C-D71A-4644-892B-93C3903261CA}|MVCapp.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1C6DD5C-D71A-4644-892B-93C3903261CA}|MVCapp.csproj|c:\\.nettraning\\assessments\\mvc\\mvcapp\\views\\code\\germancustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1C6DD5C-D71A-4644-892B-93C3903261CA}|MVCapp.csproj|solutionrelative:views\\code\\germancustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1C6DD5C-D71A-4644-892B-93C3903261CA}|MVCapp.csproj|c:\\.nettraning\\assessments\\mvc\\mvcapp\\views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C1C6DD5C-D71A-4644-892B-93C3903261CA}|MVCapp.csproj|solutionrelative:views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1C6DD5C-D71A-4644-892B-93C3903261CA}|MVCapp.csproj|c:\\.nettraning\\assessments\\mvc\\mvcapp\\models\\northwind.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{C1C6DD5C-D71A-4644-892B-93C3903261CA}|MVCapp.csproj|C:\\.NetTraning\\Assessments\\MVC\\MVCapp\\models\\northwind.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{C1C6DD5C-D71A-4644-892B-93C3903261CA}|MVCapp.csproj|solutionrelative:models\\northwind.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\.NetTraning\\Assessments\\MVC\\MVCapp\\Views\\Code\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Code\\Index.cshtml",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CodeController.cs",
               "DocumentMoniker": "C:\\.NetTraning\\Assessments\\MVC\\MVCapp\\Controllers\\CodeController.cs",
               "RelativeDocumentMoniker": "Controllers\\CodeController.cs",
@@ -64,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\.NetTraning\\Assessments\\MVC\\MVCapp\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
@@ -77,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "GermanCustomers.cshtml",
               "DocumentMoniker": "C:\\.NetTraning\\Assessments\\MVC\\MVCapp\\Views\\Code\\GermanCustomers.cshtml",
               "RelativeDocumentMoniker": "Views\\Code\\GermanCustomers.cshtml",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "CustomerByOrder.cshtml",
               "DocumentMoniker": "C:\\.NetTraning\\Assessments\\MVC\\MVCapp\\Views\\Code\\CustomerByOrder.cshtml",
               "RelativeDocumentMoniker": "Views\\Code\\CustomerByOrder.cshtml",
@@ -110,8 +110,7 @@
               "ToolTip": "C:\\.NetTraning\\Assessments\\MVC\\MVCapp\\Models\\Northwind.edmx [Diagram1]",
               "RelativeToolTip": "Models\\Northwind.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2026-06-03T06:01:15.151Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2026-06-03T06:01:15.151Z"
             }
           ]
         }

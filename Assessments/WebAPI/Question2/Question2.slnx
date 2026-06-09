@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../MVCClient/MVCClient.csproj" Id="99d6f7a9-e41e-4b00-bc0e-bb0cf852bde5" />
+  <Project Path="Question2.csproj" Id="c1c3ee55-2d21-48c2-8124-15ec8d204780" />
+</Solution>

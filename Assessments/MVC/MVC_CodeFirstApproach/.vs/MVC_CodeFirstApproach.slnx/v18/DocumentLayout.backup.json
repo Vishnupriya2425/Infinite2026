@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\.NetTraning\\Assessments\\MVC\\MVC_CodeFirstApproach\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FD23D01-9CCA-4048-8BC3-39CAF8368B2B}|MVC_CodeFirstApproach.csproj|c:\\.nettraning\\assessments\\mvc\\mvc_codefirstapproach\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FD23D01-9CCA-4048-8BC3-39CAF8368B2B}|MVC_CodeFirstApproach.csproj|solutionrelative:views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1FD23D01-9CCA-4048-8BC3-39CAF8368B2B}|MVC_CodeFirstApproach.csproj|c:\\.nettraning\\assessments\\mvc\\mvc_codefirstapproach\\views\\movie\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FD23D01-9CCA-4048-8BC3-39CAF8368B2B}|MVC_CodeFirstApproach.csproj|solutionrelative:views\\movie\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FD23D01-9CCA-4048-8BC3-39CAF8368B2B}|MVC_CodeFirstApproach.csproj|c:\\.nettraning\\assessments\\mvc\\mvc_codefirstapproach\\views\\movie\\moviesbydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1FD23D01-9CCA-4048-8BC3-39CAF8368B2B}|MVC_CodeFirstApproach.csproj|solutionrelative:views\\movie\\moviesbydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FD23D01-9CCA-4048-8BC3-39CAF8368B2B}|MVC_CodeFirstApproach.csproj|c:\\.nettraning\\assessments\\mvc\\mvc_codefirstapproach\\views\\movie\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1FD23D01-9CCA-4048-8BC3-39CAF8368B2B}|MVC_CodeFirstApproach.csproj|solutionrelative:views\\movie\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FD23D01-9CCA-4048-8BC3-39CAF8368B2B}|MVC_CodeFirstApproach.csproj|c:\\.nettraning\\assessments\\mvc\\mvc_codefirstapproach\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FD23D01-9CCA-4048-8BC3-39CAF8368B2B}|MVC_CodeFirstApproach.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FD23D01-9CCA-4048-8BC3-39CAF8368B2B}|MVC_CodeFirstApproach.csproj|c:\\.nettraning\\assessments\\mvc\\mvc_codefirstapproach\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FD23D01-9CCA-4048-8BC3-39CAF8368B2B}|MVC_CodeFirstApproach.csproj|solutionrelative:views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FD23D01-9CCA-4048-8BC3-39CAF8368B2B}|MVC_CodeFirstApproach.csproj|c:\\.nettraning\\assessments\\mvc\\mvc_codefirstapproach\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1FD23D01-9CCA-4048-8BC3-39CAF8368B2B}|MVC_CodeFirstApproach.csproj|solutionrelative:views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD23D01-9CCA-4048-8BC3-39CAF8368B2B}|MVC_CodeFirstApproach.csproj|c:\\.nettraning\\assessments\\mvc\\mvc_codefirstapproach\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD23D01-9CCA-4048-8BC3-39CAF8368B2B}|MVC_CodeFirstApproach.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FD23D01-9CCA-4048-8BC3-39CAF8368B2B}|MVC_CodeFirstApproach.csproj|c:\\.nettraning\\assessments\\mvc\\mvc_codefirstapproach\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -60,7 +60,7 @@
               "RelativeDocumentMoniker": "Views\\Movie\\MoviesByDirector.cshtml",
               "ToolTip": "C:\\.NetTraning\\Assessments\\MVC\\MVC_CodeFirstApproach\\Views\\Movie\\MoviesByDirector.cshtml",
               "RelativeToolTip": "Views\\Movie\\MoviesByDirector.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-06-03T05:30:30.485Z",
               "EditorCaption": ""
@@ -68,19 +68,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\MVC\\MVC_CodeFirstApproach\\Views\\Movie\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Movie\\Index.cshtml",
-              "ToolTip": "C:\\.NetTraning\\Assessments\\MVC\\MVC_CodeFirstApproach\\Views\\Movie\\Index.cshtml*",
-              "RelativeToolTip": "Views\\Movie\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-03T05:00:01.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "MoviesByYear.cshtml",
               "DocumentMoniker": "C:\\.NetTraning\\Assessments\\MVC\\MVC_CodeFirstApproach\\Views\\Movie\\MoviesByYear.cshtml",
               "RelativeDocumentMoniker": "Views\\Movie\\MoviesByYear.cshtml",
@@ -93,7 +80,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\MVC\\MVC_CodeFirstApproach\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Index.cshtml",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\MVC\\MVC_CodeFirstApproach\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:00:01.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\MVC\\MVC_CodeFirstApproach\\Views\\Movie\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Create.cshtml",
+              "ToolTip": "C:\\.NetTraning\\Assessments\\MVC\\MVC_CodeFirstApproach\\Views\\Movie\\Create.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T04:59:44.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MovieController.cs",
               "DocumentMoniker": "C:\\.NetTraning\\Assessments\\MVC\\MVC_CodeFirstApproach\\Controllers\\MovieController.cs",
               "RelativeDocumentMoniker": "Controllers\\MovieController.cs",
@@ -102,19 +115,6 @@
               "ViewState": "AgIAAEQAAAAAAAAAAAAUwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T04:58:41.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\.NetTraning\\Assessments\\MVC\\MVC_CodeFirstApproach\\Views\\Movie\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Movie\\Create.cshtml",
-              "ToolTip": "C:\\.NetTraning\\Assessments\\MVC\\MVC_CodeFirstApproach\\Views\\Movie\\Create.cshtml",
-              "RelativeToolTip": "Views\\Movie\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-03T04:59:44.541Z",
               "EditorCaption": ""
             },
             {
