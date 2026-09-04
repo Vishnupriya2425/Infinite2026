@@ -1,0 +1,497 @@
+﻿@model Task1.Models.ClaimsReprocessing
+@using System.Web.Mvc
+@using System.Collections.Generic
+
+@{
+    ViewBag.Title = "Claims Reprocessing";
+}
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Message"]
+    </div>
+}
+
+<div class="header-bar">
+
+    <div class="top-actions">
+        <button type="button" class="btn btn-default btn-xs">
+            Save as Draft
+        </button>
+
+        <button type="button" class="btn btn-warning btn-xs">
+            Submit
+        </button>
+
+        <button type="button" class="btn btn-success btn-xs">
+            Resolve
+        </button>
+    </div>
+
+    <div class="process-bar">
+
+        <div class="progress-fill"></div>
+
+        <span class="step-label step-active label-new">NEW</span>
+
+        <span class="step-label label-progress">
+            IN-PROGRESS
+        </span>
+
+        <span class="step-label label-pending">
+            PENDING CLOSE
+        </span>
+
+        <span class="step-label label-closed">
+            CLOSED
+        </span>
+
+        <span class="circle c1"></span>
+        <span class="circle c2"></span>
+        <span class="circle c3"></span>
+
+    </div>
+
+</div>
+<h2>Claims Batch Reprocessing Form</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(
+        true,
+        "",
+        new { @class = "text-danger" })
+
+    <div class="section-title">
+        Requester
+    </div>
+
+    <div class="row">
+
+        <div class="col-md-4">
+
+            <label>Requester</label>
+
+            @Html.TextBoxFor(
+                m => m.Requester,
+                new { @class = "form-control" })
+
+        </div>
+
+        <div class="col-md-4">
+
+            <label>Email</label>
+
+            @Html.TextBoxFor(
+                m => m.Email,
+                new { @class = "form-control" })
+
+        </div>
+
+        <div class="col-md-4">
+
+            <label>Created Date</label>
+
+            @Html.TextBoxFor(
+     m => m.CreatedDate,
+     "{0:yyyy-MM-dd}",
+     new
+     {
+         @class = "form-control",
+         type = "date"
+     })
+
+        </div>
+
+    </div>
+
+    <div class="row">
+
+        <div class="col-md-4">
+
+            <label>Phone</label>
+
+            @Html.TextBoxFor(
+                m => m.Phone,
+                new { @class = "form-control" })
+
+        </div>
+
+        <div class="col-md-4">
+
+            <label>Department Name</label>
+
+            @Html.TextBoxFor(
+                m => m.DepartmentName,
+                new { @class = "form-control" })
+
+        </div>
+
+        <div class="col-md-4">
+
+            <label>Location Name</label>
+
+            @Html.TextBoxFor(
+                m => m.LocationName,
+                new { @class = "form-control" })
+
+        </div>
+
+    </div>
+
+    <div class="section-title">
+        Assigned To
+    </div>
+
+    <div class="row">
+
+        <div class="col-md-4">
+
+            <label>Team</label>
+
+            @Html.TextBoxFor(
+                m => m.Team,
+                new { @class = "form-control" })
+
+        </div>
+
+        <div class="col-md-4">
+
+            <label>Assigned To</label>
+
+            @Html.TextBoxFor(
+                m => m.AssignedTo,
+                new { @class = "form-control" })
+
+        </div>
+
+        <div class="col-md-4">
+
+            <label>
+                Due Date
+                <span class="required">*</span>
+            </label>
+
+            @Html.TextBoxFor(
+                m => m.DueDate,
+                "{0:yyyy-MM-dd}",
+                new
+                {
+                    @class = "form-control",
+                    type = "date"
+                })
+
+            @Html.ValidationMessageFor(
+                m => m.DueDate,
+                "",
+                new { @class = "text-danger" })
+
+        </div>
+
+    </div>
+
+    <div class="section-title">
+        Details
+    </div>
+
+    <div class="row">
+
+        <div class="col-md-12">
+
+            <label>
+                Summary
+                <span class="required">*</span>
+            </label>
+
+            @Html.TextBoxFor(
+                m => m.Summary,
+                new { @class = "form-control" })
+
+            @Html.ValidationMessageFor(
+                m => m.Summary,
+                "",
+                new { @class = "text-danger" })
+
+        </div>
+
+    </div>
+
+    <div class="row">
+
+        <div class="col-md-4">
+
+            <label>
+                System
+                <span class="required">*</span>
+            </label>
+            @Html.DropDownListFor(
+    m => m.SystemName,
+    (IEnumerable<SelectListItem>)ViewBag.Systems,
+    "-- Select System --",
+    new { @class = "form-control" })
+
+        </div>
+
+        <div class="col-md-4">
+
+            <label>
+                Priority
+                <span class="required">*</span>
+            </label>
+
+            @Html.DropDownListFor(
+    m => m.Priority,
+    (IEnumerable<SelectListItem>)ViewBag.Priorities,
+    "-- Select Priority --",
+    new { @class = "form-control" })
+
+
+        </div>
+
+        <div class="col-md-4">
+
+            <label>
+                Line Of Business
+                <span class="required">*</span>
+            </label>
+
+            @Html.DropDownListFor(
+    m => m.LineOfBusiness,
+    (IEnumerable<SelectListItem>)ViewBag.LineOfBusiness,
+    "-- Select Line Of Business --",
+    new { @class = "form-control" })
+
+        </div>
+
+    </div>
+
+    <div class="row">
+
+        <div class="col-md-4">
+
+            <label>
+                Reprocessing Type
+                <span class="required">*</span>
+            </label>
+
+        </div>
+
+        <div class="col-md-4">
+
+            <label>
+                Reprocessing Reason
+                <span class="required">*</span>
+            </label>
+
+            @Html.DropDownListFor(
+     m => m.ReprocessingReason,
+     (IEnumerable<SelectListItem>)ViewBag.ReprocessingReasons,
+     "-- Select Reason --",
+     new { @class = "form-control" })
+        </div>
+
+        <div class="col-md-4">
+
+            <label>
+                Provider Name
+                <span class="required">*</span>
+            </label>
+
+            @Html.TextBoxFor(
+                m => m.ProviderName,
+                new { @class = "form-control" })
+
+        </div>
+
+    </div>
+
+    <div class="row">
+
+        <div class="col-md-4">
+
+            <label>PAR OR NON-PAR</label>
+
+            @Html.TextBoxFor(
+                m => m.ParOrNonPar,
+                new { @class = "form-control" })
+
+        </div>
+
+        <div class="col-md-4">
+
+            <label>
+                Type Of Service
+                <span class="required">*</span>
+            </label>
+
+
+
+        </div>
+
+        <div class="col-md-4">
+
+            <label>
+                Claims Count
+                <span class="required">*</span>
+            </label>
+
+            @Html.TextBoxFor(
+                m => m.ClaimsCount,
+                new { @class = "form-control" })
+
+        </div>
+
+    </div>
+
+    <div class="row">
+
+        <div class="col-md-4">
+
+            <label>
+                Timely Filing Approval Obtained
+                <span class="required">*</span>
+            </label>
+
+
+
+            <small>If timely filing is not needed select No</small>
+
+        </div>
+
+        <div class="col-md-4">
+
+            <label>
+                Projected Amount
+                <span class="required">*</span>
+            </label>
+
+            @Html.TextBoxFor(
+     m => m.ProjectedAmount,
+     new
+     {
+         @class = "form-control",
+         type = "number",
+         step = "0.01"
+     })
+
+        </div>
+
+        <div class="col-md-4">
+
+            <label>
+                Interest Applies
+                <span class="required">*</span>
+            </label>
+
+
+
+        </div>
+
+    </div>
+
+    <div class="row">
+
+        <div class="col-md-4">
+
+            <label>
+                Vendor Type
+                <span class="required">*</span>
+            </label>
+
+        </div>
+
+    </div>
+
+    <ul class="nav nav-tabs mt-3">
+
+        <li class="nav-item">
+            <a class="nav-link active">Description</a>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link">Analysis</a>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link">Glossary</a>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link">Tasks</a>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link">Related Items</a>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link">Resolution</a>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link">Attachments</a>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link">History</a>
+        </li>
+
+    </ul>
+
+    <div class="row mt-3">
+
+        <div class="col-md-6">
+
+            <label>
+                Description
+                <span class="required">*</span>
+            </label>
+
+            @Html.TextAreaFor(
+                m => m.Description,
+                new
+                {
+                    @class = "form-control",
+                    rows = "8"
+                })
+
+            @Html.ValidationMessageFor(
+                m => m.Description,
+                "",
+                new { @class = "text-danger" })
+
+        </div>
+
+        <div class="col-md-6">
+
+            <label>
+                Internal Notes (Technicians Only)
+            </label>
+
+            @Html.TextAreaFor(
+                m => m.InternalNotes,
+                new
+                {
+                    @class = "form-control",
+                    rows = "8"
+                })
+
+        </div>
+
+    </div>
+
+    <br />
+
+    <div class="text-end">
+
+        <input type="submit"
+               value="Save"
+               class="btn btn-primary" />
+
+    </div>
+}
+
+@section Scripts{
+    @Scripts.Render("~/bundles/jqueryval")
+}
